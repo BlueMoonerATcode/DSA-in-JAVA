@@ -240,7 +240,7 @@ public class Create_LL {
         System.out.println("Removing 2nd node from End...");
         ll.delete_from_end(2);
         ll.print();
-        System.out.println("---------------------");
+        System.out.println("----------------------");
         // System.out.println("Reversing Linked List...");
         // ll.reverse();// Reversed
         // ll.print();
