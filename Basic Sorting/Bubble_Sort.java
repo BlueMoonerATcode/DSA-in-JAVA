@@ -19,7 +19,7 @@ public class Bubble_Sort {
     }
 
     public static void main(String[] args) {
-        int numbers[] = { 5, 6, 7, 3, 2, 8, 1, 0, };
+        int numbers[] = { 5, 6, 7, 3, 2, 8, 1, 0, 8};
         bs(numbers);
 
     }
