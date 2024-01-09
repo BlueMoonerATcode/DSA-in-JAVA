@@ -11,7 +11,7 @@ public class Fibonaci {
 
     public static void main(String[] args) {
         int n = 10;
-        System.out.println("The Fibonacci Series till " + n + " is:");
+        System.out.println("The Fibonacci Series till " + n + " is: ");
         System.out.println(fib(1));
         System.out.println(fib(2));
         System.out.println(fib(3));
